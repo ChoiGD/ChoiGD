@@ -20,8 +20,8 @@
 <p align = "center">
 
 <a href="https://github.com/ChoiGD">
-  <img height="180em" width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChoiGD&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChoiGD&layout=compact&langs_count=8&theme=vue-dark"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChoiGD&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChoiGD&layout=compact&langs_count=8&theme=nord"/>
 </a>
 
 </p>
