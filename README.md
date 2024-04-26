@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
-  
+<!-- 
 ### &nbsp;GitHub Analytics
 
 <p align = "center">
@@ -25,4 +25,4 @@
 </a>
 
 </p>
-
+-->
